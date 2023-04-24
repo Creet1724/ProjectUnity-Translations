@@ -1,0 +1,2 @@
+warning=注意
+description=The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.

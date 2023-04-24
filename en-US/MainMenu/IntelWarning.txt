@@ -1,0 +1,2 @@
+warning=WARNING
+description=<b>Intel graphics</b> have been detected which is <b>not supported</b>.\nIt is <b>recommended</B> to use a <b>non-integrated</b> graphics card.\nThe game may <b>often crash</b> with the current setup.\nYou will receive <color=red><b>no support</b></color> while using an unsupported setup.
