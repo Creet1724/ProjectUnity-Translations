@@ -1,6 +1,6 @@
 <div align = center>
 
-# SCP: Project Unity Translations <br>![PRs](https://badgen.net/github/open-prs/Creet1724/ProjectUnity-Translations?cache=900) ![Forks](https://badgen.net/github/forks/Creet1724/ProjectUnity-Translations?cache=900) ![Contributors](https://badgen.net/github/contributors/Creet1724/ProjectUnity-Translations?cache=900) ![Discord](https://badgen.net/discord/members/ePsutpb7Km?cache=900)
+# SCP: Project Unity Translations <br>![PRs](https://badgen.net/github/open-prs/Creet1724/ProjectUnity-Translations?cache=900) ![Forks](https://badgen.net/github/forks/Creet1724/ProjectUnity-Translations?cache=900) ![Contributors](https://badgen.net/github/contributors/Creet1724/ProjectUnity-Translations?cache=900) ![Discord](https://badgen.net/discord/members/XEcDEsec8Y?cache=900)
   
 </div>
 
