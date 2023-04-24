@@ -1,6 +1,6 @@
 <div align = center>
 
-# SCP: Project Unity Translations <br>![PRs](https://badgen.net/github/open-prs/Creet1724/ProjectUnity-Translations) ![Forks](https://badgen.net/github/forks/Creet1724/ProjectUnity-Translations)
+# SCP: Project Unity Translations <br>![PRs](https://badgen.net/github/open-prs/Creet1724/ProjectUnity-Translations?cache=300) ![Forks](https://badgen.net/github/forks/Creet1724/ProjectUnity-Translations?cache=300)
   
 </div>
 
