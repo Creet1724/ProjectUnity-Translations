@@ -12,7 +12,6 @@
 
 ## Contribution Guidelines
 - Do not submit joke languages
-- Do not remove contributors from contributors.txt
 - Edit only one language per Pull Request
 
 ## How to Contribute
